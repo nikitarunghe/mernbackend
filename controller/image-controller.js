@@ -2,7 +2,7 @@ import grid from 'gridfs-stream';
 import mongoose from 'mongoose';
  import { GridFSBucket } from 'mongodb';
 
- const url = 'http://localhost:8000'
+ const url = 'https://mernbackend-eight.vercel.app'
 
 
  let gfs, gridfsBucket;
